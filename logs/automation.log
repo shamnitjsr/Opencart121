@@ -1,0 +1,29 @@
+02:41:33.045 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 02:41:33.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\AppData\Local\Temp\testng-eclipse--242013937\testng-customsuite.xml
+
+ 02:41:33.082 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+ 02:41:35.156 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
+ 02:41:35.250 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on MyAccount Link *****
+ 02:41:35.521 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Clicked on Register Link *****
+ 02:41:35.523 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Providing Customer details *****
+ 02:41:36.699 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validating expected message.. *****
+ 02:41:36.749 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest *****
+ 02:41:37.005 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4defd42: 19 ms
+ 02:41:37.052 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@34f392be: 47 ms
+ 02:41:37.053 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4554de02: 0 ms
+ 02:41:37.064 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ecab872: 11 ms
+ 02:41:37.071 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6c42f2a1: 7 ms
+ 02:41:37.081 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@65f2f9b0: 10 ms
+ 02:41:37.082 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5fe7f967: 0 ms
+ 10:10:01.208 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\Opencart121\master.xml"
+ 10:10:01.434 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\Opencart121\master.xml
+
+ 10:10:04.777 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+ 10:16:39.543 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\Opencart121\master.xml"
+ 10:16:39.789 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\Opencart121\master.xml
+
+ 10:16:43.269 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+ 
